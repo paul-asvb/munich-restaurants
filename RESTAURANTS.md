@@ -1,4 +1,4 @@
-# Paul Restaurant List
+# Pauls Restaurant List
 
 ## Bars/Restaurants
 
